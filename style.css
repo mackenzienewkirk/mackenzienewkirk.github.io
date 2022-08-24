@@ -21,3 +21,13 @@ body {
 .des {
   font-style: oblique;
 }
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80px;
+  height: 80px;
+  border-radius: 25px;
+  padding: 20px;
+}
