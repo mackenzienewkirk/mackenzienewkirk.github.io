@@ -56,4 +56,29 @@ a {
   width: 120px;
   height: 100%;
   background-color: #FFD3FF;
+  padding-right: 60px;
+}
+
+.header-main-sm-li {
+  width: 20px;
+  height: 20px;
+  background-image: url(../image/gh.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-main-sm-gh {
+  width: 20px;
+  height: 20px;
+  background-image: url(../image/li.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-main-sm-ig {
+  width: 20px;
+  height: 20px;
+  background-image: url(../image/ig.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
