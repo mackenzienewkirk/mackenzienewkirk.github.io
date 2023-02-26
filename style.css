@@ -58,6 +58,7 @@ a {
   background-color: #FFD3FF;
   padding-right: 60px;
   align-items: center;
+  column-gap: 10px;
 }
 
 .header-main-sm-li {
