@@ -3,12 +3,18 @@
   height: 60px;
   background-color: #fff;
   display: flex;
+  justify-content: space-between;
 }
 
 .header-main-logo {
-  width: 120px;
+  width: fit-content;
   height: 100%;
   background-color: #456393;
+  display: flex;
+}
+
+.header-main-logo img {
+  height: 30px;
 }
 
 .header-main-nav {
