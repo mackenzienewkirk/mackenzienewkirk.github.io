@@ -74,7 +74,11 @@
   </div>
 
   <!-- -----------------projects--------------- -->
-  
+  <div id="portfolio">
+    <div class="container">
+      <h1 class="sub-title">Projects</h1>
+    </div>
+  </div>
 
   <script>
 
@@ -85,7 +89,7 @@
         tablink.classList.remove("active-link")
       }
       for(tabcontent of tabcontents) {
-        tabContent.classList.remove("active-tab")
+        tabcontent.classList.remove("active-tab")
       }
       event.currentTarget.classList.add("active-link")
       document.getElementById(tabname).classList.add("active-tab")
