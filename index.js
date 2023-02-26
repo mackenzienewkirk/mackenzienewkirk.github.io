@@ -1,5 +1,5 @@
 import { Card } from '@mui/material';
-function app() {
+function index() {
   return(
     <Card sx={{
       textAlign: 'left',
@@ -20,4 +20,4 @@ function app() {
   )
 }
 
-export default app;
+export default index;
