@@ -19,7 +19,6 @@ a {
 .header-main-logo {
   width: fit-content;
   height: 100%;
-  background-color: #456393;
   padding-left: 60px;
   display: flex;
 
@@ -55,7 +54,7 @@ a {
 .header-main-sm {
   width: fit-content;
   height: 100%;
-  background-color: #FFD3FF;
+  background-color: #FFFF;
   padding-right: 60px;
   align-items: center;
   column-gap: 10px;
