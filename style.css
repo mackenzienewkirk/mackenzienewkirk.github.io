@@ -20,11 +20,14 @@ a {
   width: fit-content;
   height: 100%;
   background-color: #456393;
+  padding-left: 60px;
   display: flex;
+
 }
 
 .header-main-logo img {
-  height: 30px;
+  height: 40px;
+  align-self: center;
 }
 
 .header-main-nav {
