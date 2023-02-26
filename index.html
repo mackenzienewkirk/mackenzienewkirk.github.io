@@ -43,11 +43,25 @@
             If I'm not coding, you can find me at the local movie theaters, coffee shops, and MN State Parks.</p>
 
           <div class="tab-titles">
-            <p class="tab-links active-link">Skills</p>
-            <p class="tab-links">Experience</p>
-            <p class="tab-links">Education</p>
+            <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+            <p class="tab-links" onclick="opentab('experience')">Experience</p>
+            <p class="tab-links" onclick="opentab('education')">Education</p>
           </div>
-          <div class="tab-contents">
+          <div class="tab-contents active-tab" id="skills">
+            <ul>
+              <li><span>Web Development</span><br>Designing Full Stack Web Applications</li>
+              <li><span>Front End Software Engineer</span><br>Creating client friendly front-end code</li>
+              <li><span>Back End Software Engineer</span><br>Build and maintain mechanisms that process data</li>
+            </ul>
+          </div>
+          <div class="tab-contents" id="experience">
+            <ul>
+              <li><span>Web Development</span><br>Designing Full Stack Web Applications</li>
+              <li><span>Front End Software Engineer</span><br>Creating client friendly front-end code</li>
+              <li><span>Back End Software Engineer</span><br>Build and maintain mechanisms that process data</li>
+            </ul>
+          </div>
+          <div class="tab-contents" id="education">
             <ul>
               <li><span>Web Development</span><br>Designing Full Stack Web Applications</li>
               <li><span>Front End Software Engineer</span><br>Creating client friendly front-end code</li>
