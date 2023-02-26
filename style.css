@@ -53,10 +53,11 @@ a {
 }
 
 .header-main-sm {
-  width: 120px;
+  width: fit-content;
   height: 100%;
   background-color: #FFD3FF;
   padding-right: 60px;
+  align-items: center;
 }
 
 .header-main-sm-li {
