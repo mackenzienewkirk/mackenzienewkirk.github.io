@@ -67,7 +67,7 @@ a {
   column-gap: 10px;
 }
 
-.header-main-sm-li {
+.header-main-sm-gh {
   width: 20px;
   height: 20px;
   background-image: url(../image/gh.png);
@@ -75,7 +75,7 @@ a {
   background-size: cover;
 }
 
-.header-main-sm-gh {
+.header-main-sm-li {
   width: 20px;
   height: 20px;
   background-image: url(../image/li.png);
