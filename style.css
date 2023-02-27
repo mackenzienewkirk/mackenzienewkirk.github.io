@@ -77,12 +77,14 @@ nav ul li a:hover::after {
   margin-top: 5%;
   font-size: 50px;
   color: #D8FF3B;
+  background-blend-mode: darken;
 }
 
 .header-text h1 {
   font-size: 70px;
   margin-top: 20px;
   color: #D8FF3B;
+  background-blend-mode: darken;
 }
 
 /* ------------------about-------------- */
