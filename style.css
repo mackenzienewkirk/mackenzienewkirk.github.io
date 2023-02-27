@@ -36,11 +36,13 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
   border-radius: 15px;
+  padding-right: 40px;
 }
 
 .logo {
   width: 140px;
   margin-left: -20px;
+  border-radius: 15px;
 }
 
 nav ul li {
