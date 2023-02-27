@@ -195,7 +195,7 @@ nav ul li a:hover::after {
 .layer {
   width: 100%;
   height: 0;
-  background-color: #000066;
+  background-color: #ccccff;
   border-radius: 10px;
   position: absolute;
   left: 0;
