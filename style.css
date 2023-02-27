@@ -75,32 +75,33 @@ nav ul li a:hover::after {
   width: 100%;
 }
 
-.header-text {
+/* .header-text {
   margin-top: 5px;
   font-size: 50px;
   font-weight: 500;
-  /* color: #D8FF3B; */
-}
+  color: #D8FF3B;
+} */
 
 .header-text h1 {
   font-size: 80px;
   font-weight: 700;
   margin-top: 50px;
-  /* color: #D8FF3B; */
+  margin-right: 80px;
+  color: #D8FF3B; 
 }
 
-.neonText {
+/* .neonText {
   color: #ccff00;
   text-shadow:
       0 0 7px #fff,
       0 0 10px #fff,
       /* 0 0 21px #fff, */
       /* 0 0 42px #0fa, */
-      0 0 82px rgb(255, 185, 235),
+      /* 0 0 82px rgb(255, 185, 235), */
       /* 0 0 92px #0fa, */
-      0 0 102px #ff8de6,
-      0 0 151px #ff5dc9;
-}
+      /* 0 0 102px #ff8de6, */
+      /* 0 0 151px #ff5dc9; */
+/* } */
 
 /* ------------------about-------------- */
 
