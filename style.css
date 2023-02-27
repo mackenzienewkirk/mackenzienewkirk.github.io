@@ -14,9 +14,9 @@ a {
 
 #header {
   width: 100%;
-  height: 100vh;
+  /* height: 100vh; */
   background-color: #ccccff;
-  background-size: cover;
+  /* background-size: cover; */
   background-position: center;
   display: flex;
   justify-content: space-between;
@@ -30,6 +30,7 @@ a {
 nav {
   display: flex;
   align-items: center;
+  background-color: #ccccff;
   justify-content: space-between;
   flex-wrap: wrap;
 }
