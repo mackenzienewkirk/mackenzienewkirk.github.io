@@ -76,17 +76,15 @@ nav ul li a:hover::after {
 }
 
 .header-text {
-  margin-top: 5%;
+  margin-top: 10px;
   font-size: 50px;
   color: #D8FF3B;
-  background-blend-mode: darken;
 }
 
 .header-text h1 {
   font-size: 70px;
-  margin-top: 20px;
+  margin-top: 30px;
   color: #D8FF3B;
-  background-blend-mode: darken;
 }
 
 /* ------------------about-------------- */
@@ -167,7 +165,8 @@ nav ul li a:hover::after {
 .tab-contents ul li {
   list-style: none;
   margin: 10px 0;
-  font-size: 26px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 .tab-contents ul li span {
@@ -209,6 +208,7 @@ nav ul li a:hover::after {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: 40px;
   margin-top: 50px;
+  margin-bottom: 30px;
 }
 
 .work {
