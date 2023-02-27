@@ -239,3 +239,9 @@ a {
 .work:hover .layer {
   height: 100%;
 }
+
+/* -----------contact------------- */
+
+.contact-left {
+  flex-basis: 35;
+}
