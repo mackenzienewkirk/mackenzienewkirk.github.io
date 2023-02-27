@@ -78,15 +78,28 @@ nav ul li a:hover::after {
 .header-text {
   margin-top: 5px;
   font-size: 50px;
-  font-weight: 300;
-  color: #D8FF3B;
+  font-weight: 500;
+  /* color: #D8FF3B; */
 }
 
 .header-text h1 {
   font-size: 80px;
-  font-weight: 500;
+  font-weight: 700;
   margin-top: 50px;
-  color: #D8FF3B;
+  /* color: #D8FF3B; */
+}
+
+.neonText {
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #D8FF3B;
 }
 
 /* ------------------about-------------- */
