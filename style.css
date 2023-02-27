@@ -72,13 +72,13 @@ nav ul li a:hover::after {
 .header-text {
   margin-top: 5%;
   font-size: 50px;
-  color: #ffffff;
+  color: #D8FF3B;
 }
 
 .header-text h1 {
   font-size: 70px;
   margin-top: 20px;
-  color: #ffffff;
+  color: #D8FF3B;
 }
 
 /* ------------------about-------------- */
