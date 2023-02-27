@@ -123,7 +123,7 @@ nav ul li a:hover::after {
 
 .sub-title {
   font-size: 60px;
-  font-weight: 500;
+  font-weight: 600;
   color:#FFCC00;
 }
 
@@ -196,7 +196,8 @@ nav ul li a:hover::after {
 
 #portfolio p {
   color: #000066;
-  font-size: 20px;
+  font-size: 18px;
+  padding: 10px;
 
 }
 
