@@ -214,7 +214,7 @@ nav ul li a:hover::after {
 
 .work {
   border-radius: 10px;
-  position: relative;
+  position: center;
   overflow: hidden;
 }
 
