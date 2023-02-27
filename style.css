@@ -32,7 +32,7 @@ nav {
   display: flex;
   width: 100%;
   align-items: center;
-  background-color: #ccccff(0.8);
+  background-color: #ccccff;
   justify-content: space-between;
   flex-wrap: wrap;
 }
