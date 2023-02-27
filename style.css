@@ -36,7 +36,7 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
   border-radius: 15px;
-  padding-right: 40px;
+  padding-right: 80px;
 }
 
 .logo {
@@ -191,7 +191,7 @@ nav ul li a:hover::after {
 #portfolio p {
   color: #000066;
   font-size: 25px;
-  
+
 }
 
 .work-list {
