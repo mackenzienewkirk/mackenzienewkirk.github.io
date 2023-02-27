@@ -194,13 +194,13 @@ nav ul li a:hover::after {
   height: 100vh;
   background-size: cover;
   margin-bottom: 40px;
+  margin-top: 25px;
 }
 
 #portfolio p {
   color: #000066;
   font-size: 18px;
   padding: 10px;
-
 }
 
 .work-list {
