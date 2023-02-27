@@ -277,3 +277,26 @@ a {
   color:#00001f;
   transform: translateY(-5px);
 }
+
+.contact-right form {
+  width: 100%;
+}
+
+form input, form textarea {
+  width: 100%;
+  border: 0;
+  outline: none;
+  background: #FFD3FF;
+  padding: 15px;
+  margin: 15px 0;
+  color: #00001f;
+  font-size: 18px;
+  border-radius: 16px;
+}
+
+form .btn2{
+  padding: 14px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+}
