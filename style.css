@@ -76,14 +76,16 @@ nav ul li a:hover::after {
 }
 
 .header-text {
-  margin-top: 10px;
+  margin-top: 5px;
   font-size: 50px;
+  font-weight: 300;
   color: #D8FF3B;
 }
 
 .header-text h1 {
-  font-size: 70px;
-  margin-top: 30px;
+  font-size: 80px;
+  font-weight: 500;
+  margin-top: 50px;
   color: #D8FF3B;
 }
 
