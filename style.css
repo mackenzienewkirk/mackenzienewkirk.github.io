@@ -192,11 +192,12 @@ a {
   width: 100%;
   border-radius: 10px;
   display: block;
+  transition: transform 0.5s;
 }
 
 .layer {
   width: 100%;
-  height: 100%;
+  height: 0;
   background: linear-gradient(rgba(0,0,0,0.6), #000066);
   border-radius: 10px;
   position: absolute;
@@ -209,9 +210,32 @@ a {
   flex-direction: column;
   padding: 0 40px;
   text-align: center;
+  font-size: 14px;
+  transition: height 0.5s
 }
 
 .layer h3 {
   font-weight: 500;
   margin-bottom: 20px;
+}
+
+.layer a {
+  margin-top: 20px;
+  color: #FFD3FF;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 60px;
+  background: #456393;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.work:hover img {
+  transform: scale(1.1);
+}
+
+.work:hover .layer {
+  height: 100%;
 }
