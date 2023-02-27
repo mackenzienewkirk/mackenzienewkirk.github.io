@@ -175,14 +175,11 @@ nav ul li a:hover::after {
 #portfolio {
   padding: 50px 0;
   background-color: #ccccff;
-  height: 100vh;
-  background-size: cover;
-}
-
-.sub-title-projects h1 {
   color: #FF00FF;
   font-size: 40px;
   font-weight: 600;
+  height: 100vh;
+  background-size: cover;
 }
 
 .work-list {
