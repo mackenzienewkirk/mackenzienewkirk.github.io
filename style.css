@@ -83,7 +83,9 @@ nav ul li a:hover::after {
 
 #about {
   padding: 80px 0;
-  color: #ccccff
+  color: #ccccff;
+  height: 100vh;
+  background-size: cover;
 }
 
 .row {
@@ -163,6 +165,7 @@ nav ul li a:hover::after {
   padding: 50px 0;
   background-color: #ccccff;
   height: 100vh;
+  background-size: cover;
 }
 
 .sub-title-projects {
@@ -241,6 +244,7 @@ nav ul li a:hover::after {
 #contact {
   height: 100vh;
   background-size: cover;
+  padding: 30px 0;
 }
 
 .contact-left {
