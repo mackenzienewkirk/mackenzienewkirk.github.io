@@ -38,7 +38,7 @@ nav {
   border-radius: 15px;
   padding-right: 200px;
   padding-left: 60px;
-  margin-top: ;
+  margin-top: 60px;
 }
 
 .logo {
@@ -137,7 +137,7 @@ nav ul li a:hover::after {
 
 .tab-titles {
   display: flex;
-  margin: 20px 0 40px;
+  margin: 20px 0 20px;
   font-size: 40px;
 }
 
