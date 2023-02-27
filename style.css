@@ -75,12 +75,12 @@ nav ul li a:hover::after {
   width: 100%;
 }
 
-/* .header-text {
+.header-text {
   margin-top: 5px;
   font-size: 50px;
   font-weight: 500;
   color: #D8FF3B;
-} */
+}
 
 .header-text h1 {
   font-size: 80px;
