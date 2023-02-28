@@ -90,6 +90,20 @@ nav ul li a:hover::after {
   color: #D8FF3B; 
 }
 
+.box {
+  display: block;
+  background-color: rgb(0, 0, 67, .4);
+  max-width: 800px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 15px 20px rgba(0,0,0,.2);
+  padding: 30px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
 /* .neonText {
   color: #ccff00;
   text-shadow:
