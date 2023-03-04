@@ -151,9 +151,6 @@ nav ul li a:hover::after {
 
 .about-col-2 p {
   flex-basis: 60%;
-  font-size: 18px;
-  font-weight: 200;
-  color:#ccccff;
 }
 
 .sub-title {
@@ -163,11 +160,11 @@ nav ul li a:hover::after {
   margin-top: 30px;
 }
 
-/* .sub-title p {
-  font-size: 35px;
+.sub-title p {
+  font-size: 18px;
   font-weight: 300;
   color:#ccccff;
-} */
+}
 
 .tab-titles {
   display: flex;
