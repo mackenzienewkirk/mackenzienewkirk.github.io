@@ -226,13 +226,13 @@ nav ul li a:hover::after {
   font-weight: 500;
   height: 100vh;
   background-size: contain;
-  margin-bottom: 6px;
-  margin-top: 6px;
+  margin-bottom: 2px;
+  margin-top: 2px;
 }
 
 #portfolio p {
   color: #000066;
-  font-size: 18px;
+  font-size: 20px;
   padding: 10px;
 }
 
@@ -242,8 +242,8 @@ nav ul li a:hover::after {
   max-width: 800px;
   position: relative;
   top: 30%;
-  margin-top: 50px;
-  left: 50%;
+  margin-top: 80px;
+  left: 20%;
   transform: translate(-50%, -50%);
   box-shadow: 0 15px 20px rgba(0,0,0,.2);
   padding: 6px;
@@ -285,13 +285,13 @@ nav ul li a:hover::after {
 .work h3 {
   font-size: 26px;
   color: #000066;
-  text-align: center;
+  text-align: left;
 }
 
 .work p {
   font-size: 18px;
   color: #000066;
-  text-align: center;
+  text-align: left;
 }
 
 .layer {
