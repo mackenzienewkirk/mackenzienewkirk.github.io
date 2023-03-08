@@ -238,15 +238,15 @@ nav ul li a:hover::after {
 
 .box2 {
   display: block;
-  background-color: rgb(0, 0, 67, .4);
+  background-color: rgba(158, 158, 255, 0.4);
   max-width: 800px;
   position: relative;
-  /* top: 30%; */
+  top: 30%;
   margin-top: 5px;
-  /* left: 50%; */
+  left: 50%;
   transform: translate(-50%, -50%);
   box-shadow: 0 15px 20px rgba(0,0,0,.2);
-  padding: 10px;
+  padding: 6px;
   text-align: left;
   letter-spacing: 1px;
   border-radius: 15px;
