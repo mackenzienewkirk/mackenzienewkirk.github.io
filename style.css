@@ -242,7 +242,7 @@ nav ul li a:hover::after {
   max-width: 800px;
   position: relative;
   top: 30%;
-  margin-top: -50px;
+  margin-top: 50px;
   left: 50%;
   transform: translate(-50%, -50%);
   box-shadow: 0 15px 20px rgba(0,0,0,.2);
@@ -271,7 +271,7 @@ nav ul li a:hover::after {
 .work {
   border-radius: 10px;
   position: relative;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .work img {
@@ -285,13 +285,13 @@ nav ul li a:hover::after {
 .work h3 {
   font-size: 26px;
   color: #000066;
-
+  text-align: center;
 }
 
 .work p {
   font-size: 18px;
   color: #000066;
-  max-width: fit-content;
+  text-align: center;
 }
 
 .layer {
@@ -303,7 +303,7 @@ nav ul li a:hover::after {
   position: absolute;
   left: 0;
   bottom: 0;
-  overflow: visible;
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
