@@ -225,7 +225,7 @@ nav ul li a:hover::after {
   font-size: 40px;
   font-weight: 600;
   height: 100vh;
-  background-size: cover;
+  background-size: contain;
   margin-bottom: 40px;
   margin-top: 25px;
 }
@@ -271,7 +271,7 @@ nav ul li a:hover::after {
 .work {
   border-radius: 10px;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .work img {
@@ -303,7 +303,7 @@ nav ul li a:hover::after {
   position: absolute;
   left: 0;
   bottom: 0;
-  overflow: hidden;
+  overflow: visible;
   display: flex;
   align-items: center;
   justify-content: center;
