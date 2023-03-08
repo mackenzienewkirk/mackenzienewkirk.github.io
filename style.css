@@ -36,7 +36,7 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
   border-radius: 15px;
-  padding-right: 200px;
+  padding-right: 60px;
   padding-left: 60px;
   margin-top: 40px;
 }
@@ -222,12 +222,12 @@ nav ul li a:hover::after {
   padding: 20px 0;
   background-color: #ccccff;
   color: #FF00FF;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 35px;
+  font-weight: 500;
   height: 100vh;
   background-size: contain;
-  margin-bottom: 40px;
-  margin-top: 25px;
+  margin-bottom: 6px;
+  margin-top: 6px;
 }
 
 #portfolio p {
@@ -242,7 +242,7 @@ nav ul li a:hover::after {
   max-width: 800px;
   position: relative;
   top: 30%;
-  margin-top: 5px;
+  margin-top: -50px;
   left: 50%;
   transform: translate(-50%, -50%);
   box-shadow: 0 15px 20px rgba(0,0,0,.2);
