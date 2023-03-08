@@ -93,7 +93,7 @@ nav ul li a:hover::after {
 .box {
   display: block;
   background-color: rgb(0, 0, 67, .4);
-  max-width: 1000px;
+  max-width: 850px;
   position: relative;
   top: 30%;
   margin-top: 10px;
@@ -267,8 +267,15 @@ nav ul li a:hover::after {
 }
 
 .work h3 {
-  font-size: 20px;
+  font-size: 26px;
   color: #000066;
+
+}
+
+.work p {
+  font-size: 18px;
+  color: #000066;
+  max-width: fit-content;
 }
 
 .layer {
