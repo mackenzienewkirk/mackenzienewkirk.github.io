@@ -83,8 +83,8 @@ nav ul li a:hover::after {
 }
 
 .header-text h1 {
-  font-size: 80px;
-  font-weight: 700;
+  font-size: 100px;
+  font-weight: 600;
   margin-top: 50px;
   margin-right: 200px;
   color: #D8FF3B; 
@@ -100,7 +100,7 @@ nav ul li a:hover::after {
   left: 50%;
   transform: translate(-50%, -50%);
   box-shadow: 0 15px 20px rgba(0,0,0,.2);
-  padding: 6px;
+  padding: 4px;
   text-align: center;
   letter-spacing: 1px;
   border-radius: 15px;
