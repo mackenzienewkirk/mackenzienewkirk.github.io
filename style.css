@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background-color: #000066;
-    color:#ccccff;
+  background-color: #C39D8A;
+    color:#6E3F25;
     font-family: serif, Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -15,7 +15,7 @@ a {
 #header {
   width: 100%;
   height: 100vh; 
-  background: #ccccff;
+  background: #C39D8A;
   background-size: cover; 
   background-position: center;
   display: flex;
@@ -32,7 +32,7 @@ nav {
   display: flex;
   width: 100%;
   align-items: center;
-  background-color: #ccccff;
+  background-color: #C39D8A;
   justify-content: space-between;
   flex-wrap: wrap;
   border-radius: 15px;
@@ -64,7 +64,7 @@ nav ul li a::after {
   content: '';
   width: 0;
   height: 3px;
-  background: #ccff00;
+  background: #6E3F25;
   position: absolute;
   left: 0px;
   bottom: -6px;
@@ -87,7 +87,7 @@ nav ul li a:hover::after {
   font-weight: 600;
   margin-top: 50px;
   margin-right: 150px;
-  color: #D8FF3B; 
+  color: #898360; 
 }
 
 .box {
@@ -110,7 +110,7 @@ nav ul li a:hover::after {
 
 #about {
   padding: 80px 0;
-  color: #ccccff;
+  color: #C39D8A;
   height: 100vh;
   background-size: cover;
 }
@@ -150,7 +150,7 @@ nav ul li a:hover::after {
 .sub-title p {
   font-size: 45px;
   font-weight: 300;
-  color:#ccccff;
+  color:#C39D8A;
 }
 
 .tab-titles {
@@ -207,7 +207,7 @@ nav ul li a:hover::after {
 
 #portfolio {
   padding: 20px 0;
-  background-color: #ccccff;
+  background-color: #C39D8A;
   color: #FF00FF;
   font-size: 35px;
   font-weight: 500;
@@ -284,7 +284,7 @@ nav ul li a:hover::after {
 .layer {
   width: 100%;
   height: 0;
-  background-color: #ccccff;
+  background-color: #C39D8A;
   color: #00001f;
   border-radius: 10px;
   position: absolute;
