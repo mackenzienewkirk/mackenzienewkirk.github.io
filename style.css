@@ -90,7 +90,7 @@ nav ul li a:hover::after {
   color: #898360; 
 }
 
-.box {
+/* .box {
   display: block;
   background-color: rgb(0, 0, 16, .5);
   max-width: 1300px;
@@ -104,7 +104,7 @@ nav ul li a:hover::after {
   text-align: center;
   letter-spacing: 1px;
   border-radius: 15px;
-}
+} */
 
 /* ------------------about-------------- */
 
