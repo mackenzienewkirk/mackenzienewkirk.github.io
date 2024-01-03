@@ -79,7 +79,7 @@ nav ul li a:hover::after {
   margin-top: 5px;
   font-size: 50px;
   font-weight: 500;
-  color: #2E1114;
+  color: #cc3366;
 }
 
 .header-text h1 {
@@ -87,7 +87,7 @@ nav ul li a:hover::after {
   font-weight: 600;
   margin-top: 50px;
   margin-right: 150px;
-  color: #898360; 
+  color: #cc3366; 
 }
 
 /* .box {
