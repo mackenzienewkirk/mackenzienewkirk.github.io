@@ -143,14 +143,14 @@ nav ul li a:hover::after {
 .sub-title {
   font-size: 60px;
   font-weight: 600;
-  color:#FFCC00;
+  color:#cc3366;
   margin-top: 30px;
 }
 
 .sub-title p {
   font-size: 45px;
   font-weight: 300;
-  color:#FFCC00;
+  color:#cc3366;
 }
 
 .tab-titles {
@@ -190,7 +190,7 @@ nav ul li a:hover::after {
 }
 
 .tab-contents ul li span {
-  color: #FFCC00;
+  color: #cc3366;
   font-size: 26px;
 }
 
@@ -349,13 +349,13 @@ nav ul li a:hover::after {
 }
 
 .contact-left p i {
-  color: #FFCC00;
+  color: #cc3366;
   margin-right: 15px;
   font-size: 25px;
 }
 
 .contact-right h3 {
-  color: #FFCC00;
+  color: #cc3366;
   font-size: 40px;
 }
 
