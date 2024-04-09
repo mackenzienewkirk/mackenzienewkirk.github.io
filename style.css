@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background-color: #FFC9E6;
-    color:#cc3366;
+  background-color: #ffe7c7;
+    color:#265a2a;
     font-family: serif, Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -77,22 +77,22 @@ nav ul li a:hover::after {
 
 .header-text {
   margin-top: 5px;
-  font-size: 50px;
-  font-weight: 500;
+  font-size: 24px;
+  font-weight: 100;
   color: #cc3366;
 }
 
 .header-text h1 {
-  font-size: 90px;
-  font-weight: 600;
+  font-size: 24px;
+  font-weight: 100;
   margin-top: 50px;
   margin-right: 150px;
   color: #cc3366; 
 }
 
 .header-text h2 {
-  font-size: 70px;
-  font-weight: 600;
+  font-size: 24px;
+  font-weight: 100;
   margin-top: 60px;
   margin-right: 150px;
   color: #cc3366; 
