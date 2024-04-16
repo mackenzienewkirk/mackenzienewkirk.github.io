@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: #FFF5E7;
+  background-color: #FFFBF6;
     color:#265a2a;
     font-family: serif, Georgia, 'Times New Roman', Times, serif;
 }
@@ -15,7 +15,7 @@ a {
 #header {
   width: 100%;
   height: 100vh; 
-  background: #FFF5E7;
+  background: #FFFBF6;
   background-size: cover; 
   background-position: center;
   display: flex;
@@ -79,7 +79,7 @@ nav ul li a:hover::after {
   margin-top: 5px;
   font-size: 24px;
   font-weight: 100;
-  color: #cc3366;
+  color: #265a2a;
 }
 
 .header-text h1 {
@@ -87,7 +87,7 @@ nav ul li a:hover::after {
   font-weight: 100;
   margin-top: 10px;
   margin-right: 150px;
-  color: #cc3366; 
+  color: #265a2a; 
 }
 
 .header-text h2 {
@@ -95,7 +95,7 @@ nav ul li a:hover::after {
   font-weight: 100;
   margin-top: 10px;
   margin-right: 150px;
-  color: #cc3366; 
+  color: #265a2a; 
 }
 
 /* .box {
@@ -118,7 +118,7 @@ nav ul li a:hover::after {
 
 #about {
   padding: 80px 0;
-  color: #cc3366;
+  color: #265a2a;
   height: 100vh;
   background-size: cover;
 }
@@ -151,14 +151,14 @@ nav ul li a:hover::after {
 .sub-title {
   font-size: 60px;
   font-weight: 600;
-  color:#cc3366;
+  color:#265a2a;
   margin-top: 30px;
 }
 
 .sub-title p {
   font-size: 45px;
   font-weight: 300;
-  color:#cc3366;
+  color:#265a2a;
 }
 
 .tab-titles {
@@ -198,7 +198,7 @@ nav ul li a:hover::after {
 }
 
 .tab-contents ul li span {
-  color: #cc3366;
+  color: #265a2a;
   font-size: 26px;
 }
 
@@ -215,7 +215,7 @@ nav ul li a:hover::after {
 
 #portfolio {
   padding: 20px 0;
-  background-color: #FFC9E6;
+  background-color: #FFFBF6;
   color: #FF00FF;
   font-size: 35px;
   font-weight: 500;
@@ -357,13 +357,13 @@ nav ul li a:hover::after {
 }
 
 .contact-left p i {
-  color: #cc3366;
+  color: #265a2a;
   margin-right: 15px;
   font-size: 25px;
 }
 
 .contact-right h3 {
-  color: #cc3366;
+  color: #265a2a;
   font-size: 40px;
 }
 
