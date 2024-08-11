@@ -293,7 +293,7 @@ nav ul li a:hover::after {
 .layer {
   width: 100%;
   height: 0;
-  background-color: #FFC9E6;
+  background-color: #FFFBF6;
   color: #00001f;
   border-radius: 10px;
   position: absolute;
@@ -317,7 +317,7 @@ nav ul li a:hover::after {
 
 .layer a {
   margin-top: 20px;
-  color: #FFD3FF;
+  color: #FFFBF6;
   text-decoration: none;
   font-size: 18px;
   line-height: 60px;
@@ -377,7 +377,7 @@ nav ul li a:hover::after {
   font-size: 30px;
   margin-right: 15px;
   color:#000066;
-  background-color: #FFD3FF;
+  background-color: #FFFBF6;
   display: inline-block;
   transition: transform 0.5s;
 }
@@ -395,7 +395,7 @@ form input, form textarea {
   width: 100%;
   border: 0;
   outline: none;
-  background: #FFD3FF;
+  background: #FFFBF6;
   padding: 15px;
   margin: 15px 0;
   color: #00001f;
