@@ -53,7 +53,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #265a2a;
+  color: #333399;
   background-color: #FFFBF6;
   text-decoration: none;
   font-size: 22px;
@@ -79,7 +79,7 @@ nav ul li a:hover::after {
   margin-top: 5px;
   font-size: 24px;
   font-weight: 100;
-  color: #265a2a;
+  color: #333399;
 }
 
 .header-text h1 {
@@ -87,7 +87,7 @@ nav ul li a:hover::after {
   font-weight: 100;
   margin-top: 10px;
   margin-right: 150px;
-  color: #265a2a; 
+  color: #333399; 
 }
 
 .header-text h2 {
@@ -95,7 +95,7 @@ nav ul li a:hover::after {
   font-weight: 100;
   margin-top: 10px;
   margin-right: 150px;
-  color: #265a2a; 
+  color: #333399; 
 }
 
 .header-text h3 {
@@ -103,14 +103,14 @@ nav ul li a:hover::after {
   font-weight: 50;
   margin-top: 10px;
   margin-right: 150px;
-  color: #265a2a; 
+  color: #333399; 
 }
 
 /* ------------------about-------------- */
 
 #about {
   padding: 80px 0;
-  color: #265a2a;
+  color: #333399;
   height: 100vh;
   background-size: cover;
 }
@@ -143,14 +143,14 @@ nav ul li a:hover::after {
 .sub-title {
   font-size: 60px;
   font-weight: 600;
-  color:#265a2a;
+  color:#333399;
   margin-top: 30px;
 }
 
 .sub-title p {
   font-size: 45px;
   font-weight: 300;
-  color:#265a2a;
+  color:#333399;
 }
 
 .tab-titles {
@@ -190,7 +190,7 @@ nav ul li a:hover::after {
 }
 
 .tab-contents ul li span {
-  color: #265a2a;
+  color: #333399;
   font-size: 26px;
 }
 
@@ -349,13 +349,13 @@ nav ul li a:hover::after {
 }
 
 .contact-left p i {
-  color: #265a2a;
+  color: #333399;
   margin-right: 15px;
   font-size: 25px;
 }
 
 .contact-right h3 {
-  color: #265a2a;
+  color: #333399;
   font-size: 40px;
 }
 
