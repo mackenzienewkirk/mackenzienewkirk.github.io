@@ -15,7 +15,7 @@ a {
 #header {
   width: 100%;
   height: 100vh; 
-  background-image: url("landingpage.png");
+  background-image: url("landingwaves.png");
   background-size: cover; 
   background-position: center;
   display: flex;
