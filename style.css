@@ -40,12 +40,6 @@ nav {
   margin-top: 40px;
 }
 
-.logo {
-  width: 18px;
-  margin-left: -20px;
-  border-radius: 15px;
-}
-
 nav ul li {
   display: inline-block;
   list-style: none;
@@ -83,7 +77,7 @@ nav ul li a:hover::after {
 }
 
 .header-text h1 {
-  font-size: 24px;
+  font-size: 25px;
   font-weight: 100;
   margin-top: 10px;
   margin-right: 150px;
