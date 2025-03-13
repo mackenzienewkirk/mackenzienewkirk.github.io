@@ -90,10 +90,9 @@ nav ul li a:hover::after {
 }
 
 .header-text h3 {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 50;
   margin-top: 10px;
-  margin-right: 150px;
   color: #333399; 
 }
 
