@@ -1,15 +1,14 @@
 html {
+  margin: 0;
+  padding: 0;
   scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 body {
   background-color: #FFFBF6;
     color:#333399;
     font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
-}
-
-a {
-  cursor: pointer;
 }
 
 #header {
