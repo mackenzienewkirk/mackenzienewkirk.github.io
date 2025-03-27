@@ -176,6 +176,14 @@ nav ul li a:hover::after {
 
 /*------------services----------------------*/
 
+#services{
+  padding: 30px 0;
+}
+
+.services-list{
+  display: grid;
+  
+}
 
 /* ----------projects------------------------- */
 
